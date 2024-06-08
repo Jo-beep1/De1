@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anniversary Message</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Anniversary!</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="background"></div>
+  <div class="letter">
+    <p>Dear Matilda,</p>
+    <p>Happy 1 Year Anniversary!</p>
+    <p>It's hard to believe it's been a whole year since we started on this journey together. Time flies when you're in love, doesn't it?</p>
+    <p>Reflecting on the past year fills my heart with warmth and gratitude. We've shared countless memories, laughter, and even a few tears. Through it all, one thing remains constant - my love for you.</p>
+    <p>Thank you for being my partner and my best friend. Your presence in my life brings me immeasurable joy, and I'm so grateful to have you by my side.</p>
+    <p>As we celebrate our one year together, I want you to know how much you mean to me. You're the sunshine on my darkest days, the melody in my heart, and the love of my life.</p>
+    <p>Here's to us and to many more adventures together. I can't wait to see what the future holds for us.</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+</body>
+</html>
+
